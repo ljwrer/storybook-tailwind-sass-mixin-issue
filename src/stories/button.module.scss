@@ -1,0 +1,4 @@
+@import "./some-mixin";
+.button{
+  @include buttonMixin;
+}
